@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = https://github.com/cue-labs-modules-testing/pub-submodule-child

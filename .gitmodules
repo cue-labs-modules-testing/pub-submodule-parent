@@ -1,3 +1,6 @@
 [submodule "child"]
 	path = child
 	url = https://github.com/cue-labs-modules-testing/pub-submodule-child
+[submodule "child-ssh"]
+	path = child-ssh
+	url = git@github.com:cue-labs-modules-testing/pub-submodule-child.git
